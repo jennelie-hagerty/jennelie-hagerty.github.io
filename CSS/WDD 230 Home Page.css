@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap");
+
+body {
+    background-color: #94c5cc;
+    color: #f8f8f8;
+    font-family: "Raleway", "sans-se-rif";
+    font-size: 19px;
+}
+
+#headerBlock {
+    background-color: #372554;
+    width: 900px;
+    height: 200px;
+    border-radius: 5px;
+    font-family: "Lobster Two", cursive;
+    font-size: 60px;
+    text-align: center;
+}
+
+#breakLine {
+    width: 900px;
+    height: 2px;
+    background-color: #f8f8f8;
+}
+
+ a{
+    color: #f8f8f8;
+}
+ a:hover {
+    color: blueviolet;
+}
+a:visited {
+    color: greenyellow
+}
+
+footer {
+    background-color: #372554;
+    width: 900px;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+}
